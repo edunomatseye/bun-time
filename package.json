@@ -6,9 +6,13 @@
     "cowsay": "bunx cowsay 'hello world'"
   },
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "nx": "16.9.1"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "nx": {
+    "targets": {}
   }
 }
