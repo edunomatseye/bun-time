@@ -6,8 +6,10 @@
     "cowsay": "bunx cowsay 'hello world'"
   },
   "devDependencies": {
+    "@nx/workspace": "^16.9.1",
     "bun-types": "latest",
-    "nx": "16.9.1"
+    "nx": "16.9.1",
+    "nx-cloud": "^16.4.0"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
